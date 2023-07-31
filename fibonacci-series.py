@@ -1,4 +1,4 @@
-#python program to print fibonacci seried
+#python program to print fibonacci series
 
 #input from user
 n = int(input("Enter the number : "))
